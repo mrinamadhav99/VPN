@@ -1,0 +1,4 @@
+Server: vpn.changepond.com:4433
+Username: mrinal.ks
+Password: mZV.9a7zqY=5
+Domain: LocalDomain
